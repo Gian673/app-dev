@@ -1,6 +1,7 @@
 # app-dev
-My first repository
+
 # My first repository
+
 ## My favorite anime series:
 1. Overlord
 2. K-On
@@ -11,4 +12,6 @@ My first repository
 7. Saekano
 
 # Wholesome Manga
-[title](https://manganato.com/manga-ja987209)
+[A Rare Marriage (Manga)](https://manganato.com/manga-ja987209)
+
+
