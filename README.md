@@ -10,4 +10,4 @@
 7. Saekano
 
 # Wholesome Manga
-[title](https://manganato.com/manga-ja987209)
+[A Rare Marriage (Manga)](https://manganato.com/manga-ja987209)
